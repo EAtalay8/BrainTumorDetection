@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/trainingdatapro/brain-mri-dataset
+https://www.kaggle.com/datasets/preetviradiya/brian-tumor-dataset?resource=download
+https://app.roboflow.com/alper-fbc0d/tumor-detection2-rscmi/2
